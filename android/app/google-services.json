@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "523566162884",
+    "project_id": "dietandfitness-ec1a4",
+    "storage_bucket": "dietandfitness-ec1a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523566162884:android:30c58a0c98a7a5d1bc7a91",
+        "android_client_info": {
+          "package_name": "com.example.dietandfitness"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-Ruh0XryIbBagetoJOWmjh2zQzAapF9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
